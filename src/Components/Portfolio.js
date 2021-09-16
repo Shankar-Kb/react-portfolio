@@ -27,6 +27,21 @@ const Portfolio = () => {
                   </a>
                 </div>
               </div>
+
+              <div className="columns portfolio-item">
+                <div className="item-wrap">
+                  <a href="https://aoe2-team-civ-picker.netlify.app" title="Simple Blog Site">
+                    <img alt="Project Thumbnail" src="images/portfolio/aoe2-team-civ-picker-thumbnail.jpg" />
+                    <div className="overlay">
+                      <div className="portfolio-item-meta">
+                        <h5>AOE 2 Team Civ Picker</h5>
+                        <p>A random team generator site made with Javascript</p>
+                      </div>
+                    </div>
+                    <div className="link-icon"><i className="fa fa-link"></i></div>
+                  </a>
+                </div>
+              </div>
             </div>
 
           </div>
