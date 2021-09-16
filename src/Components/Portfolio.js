@@ -15,7 +15,7 @@ const Portfolio = () => {
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               <div className="columns portfolio-item">
                 <div className="item-wrap">
-                  <a href="https://simple-blog-site-frontend.netlify.app" title="Simple Blog Site">
+                  <a href="https://simple-blog-site-frontend.netlify.app" title="Simple Blog Site" target="_blank" rel="noopener noreferrer">
                     <img alt="Project Thumbnail" src="images/portfolio/simple-blog-site-thumbnail.jpg" />
                     <div className="overlay">
                       <div className="portfolio-item-meta">
@@ -30,7 +30,7 @@ const Portfolio = () => {
 
               <div className="columns portfolio-item">
                 <div className="item-wrap">
-                  <a href="https://aoe2-team-civ-picker.netlify.app" title="Simple Blog Site">
+                  <a href="https://aoe2-team-civ-picker.netlify.app" title="Simple Blog Site" target="_blank" rel="noopener noreferrer">
                     <img alt="Project Thumbnail" src="images/portfolio/aoe2-team-civ-picker-thumbnail.jpg" />
                     <div className="overlay">
                       <div className="portfolio-item-meta">
