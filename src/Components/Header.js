@@ -27,7 +27,7 @@ const Header = () => {
             Extremely motivated to constantly develop my skills and grow professionally. Seeking to leverage my technical expertise to learn and adapt to new technologies in the face of an ever growing market.</h3>
             <hr />
             <ul className="social">       
-              <li><a href="https://www.facebook.com/Mr.shank"><i className="fa fa-facebook"></i></a></li>
+              {/* <li><a href="https://www.facebook.com/Mr.shank"><i className="fa fa-facebook"></i></a></li> */}
               <li><a href="https://www.linkedin.com/in/bhavani-shankar-k-8240561bb"><i className="fa fa-linkedin"></i></a></li>
               <li><a href="https://github.com/Shankar-Kb"><i className="fa fa-github"></i></a></li>
             </ul>
