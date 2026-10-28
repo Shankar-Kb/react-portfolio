@@ -70,12 +70,8 @@ const Contact = () => {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
 					   <p className="address">
 						   Bhavani Shankar K<br />
-						   NPL Agastya Apartments <br />
-						   Chennai, Tamil Nadu Chennai-600081<br />
-						   <span>9710080555</span>
 					   </p>
 				   </div>
 
